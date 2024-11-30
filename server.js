@@ -4,11 +4,11 @@
  * Module dependencies.
  */
 
-var app = require('./server/config/app');
+var app = require('./Server/config/app');
 var debug = require('debug')('infrproject:server');
 var http = require('http');
 
-/**
+/**S
  * Get port from environment and store in Express.
  */
 
